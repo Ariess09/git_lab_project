@@ -46,4 +46,4 @@ Through this project, I learned how to:
 
 ## 👤 Author
 ADEGBESAN BRIDGET
-Bsc Applied Mathematics & Computer Science.
+Theoretical computer Science and information technology.
